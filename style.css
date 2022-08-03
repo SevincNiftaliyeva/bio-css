@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    float: inline-end;
+    
+}
+.sol , .sag {
+    float: left;
+
+}
+.sol{
+width: 50%;
+
+}
+.div{
+    float: left;
+}
+ .sol img {
+    
+    float: left;
+}
+/* .sol img{
+    width: 100px;
+    height: 100px;
+} */
+.sag{
+    width: 50%;
+}
+h1{
+    background-color: grey;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+.all{
+    padding-bottom: 9px;
+}
+
